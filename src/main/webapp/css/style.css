@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+form {
+    margin-block-end: 0;
+}
+
+.table-list, .table-detail {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table-list th, td {
+    border: 1px solid #DDD;
+}
+
+.table-list td {
+    text-align: left;
+    padding: 6px;
+}
+
+.table-list th {
+    background-color: #04AA6D;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.table-list tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.sub-menu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.load-success {
+    text-align: center;
+}
