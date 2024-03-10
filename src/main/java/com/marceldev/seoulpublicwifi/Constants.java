@@ -3,7 +3,7 @@ package com.marceldev.seoulpublicwifi;
 public final class Constants {
     private Constants() {}
 
-    public static final String DB_FILE = "test.db";
+    public static final String DB_FILE = "test-seoul-wifi-2u28w8.db";
     public static final String DB_URL = "jdbc:sqlite:" + DB_FILE;
 
     // API - http://openapi.seoul.go.kr:8088/apikey/json/TbPublicWifiInfo/1/10/;
