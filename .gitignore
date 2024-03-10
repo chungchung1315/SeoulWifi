@@ -39,4 +39,4 @@ build/
 .DS_Store
 
 ### db test file
-test.db
+/test-seoul-wifi*
